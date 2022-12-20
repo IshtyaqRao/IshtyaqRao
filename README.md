@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshtyaqRao
-- 👀 I’m interested in Intelligent Computing
+- 👀 I’m interested in Intelligent Computing & Product building
 - 🌱 I’m currently experimenting in DevOps & ChatGPT
 - 💞️ I’m looking to collaborate on git work
 - 📫 How to reach me ...
